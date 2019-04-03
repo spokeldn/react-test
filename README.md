@@ -1,6 +1,6 @@
 Thanks for your time working on the tech test for Spoke!
 
-The data for you to work on can be found at [https://my-json-server.typicode.com/spokeldn/spoke-test/db]
+The data for you to work on can be found at [https://my-json-server.typicode.com/spokeldn/react-test/db]
 
 We'd like to see 3 pages:
 
