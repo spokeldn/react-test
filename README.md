@@ -68,6 +68,8 @@ We would like to fetch the first 50 products from the endpoint and only fetch th
 
 We assume that all the products have inventory and can be added to the basket.
 
+Please visit this url for more information on shopify graphql: ```[https://shopify.dev/docs/admin-api/graphql/reference/object/product?api[version]=2020-04]```
+
 ### Requirements
 - Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
 - Please write relevant tests preferably using Jest.
