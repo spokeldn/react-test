@@ -69,7 +69,7 @@ We assume that all the products have inventory and can be added to the basket.
 
 ### Requirements
 - Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
-- Please write relevant tests preferably using Jest or Enzyme.
+- Please write relevant tests preferably using Jest.
 - The designs provided are a basic wireframe of the structure we expect to see. Feel free to experiment with different styles but please provide a responsive UI.
 
 # Layout
