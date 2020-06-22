@@ -54,6 +54,7 @@ The data for you to work on will be provided by our graphQL endpoint (see env fi
 
 We need to retrieve the following data for each product:
 - ID
+- Images
 - ProductType
 - Title
 - Tags
