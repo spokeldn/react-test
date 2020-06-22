@@ -67,6 +67,11 @@ We would like to fetch the first 50 products from the endpoint and only fetch th
 
 We assume that all the products have inventory and can be added to the basket.
 
+### Requirements
+- Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
+- Please write relevant tests preferably using Jest or Enzyme.
+- The designs provided are a basic wireframe of the structure we expect to see. Feel free to experiment with different styles but please provide a responsive UI.
+
 # Layout
 
 ### Products List page:
@@ -86,14 +91,9 @@ We assume that all the products have inventory and can be added to the basket.
 * Has delete from cart functionality
 * Shows the total with a dummy `Pay` button
 
-### BONUS:
+### Bonus:
 * Update the item amount in the cart (think about stock)
 * Add a promotion input to make %20 discount
 * Implement this test within the NextJS framework
-
-### Requirements
-- Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
-- Please write relevant tests preferably using Jest or Enzyme.
-- The designs provided are a basic wireframe of the structure we expect to see. Feel free to experiment with different styles but please provide a responsive UI.
 
 Happy hacking!
