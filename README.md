@@ -50,7 +50,7 @@ The data for you to work on will be provided by our graphQL endpoint (see env fi
 }
 ```
 
-###Notes on this data:
+### Notes on this data:
 
 We need to retrieve the following data for each product:
 - ID
