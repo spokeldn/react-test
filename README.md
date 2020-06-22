@@ -67,26 +67,26 @@ We would like to fetch the first 50 products from the endpoint and only fetch th
 
 We assume that all the products have inventory and can be added to the basket.
 
-#Layout
+# Layout
 
-###Products List page:
+### Products List page:
 * Lists all products in given category (productType)
 * Shows the first image for each product in the list
 * Highlights the products with the new badge
 * Has filtering functionality for the products (typing the title or the product type will filter correct products)
 * Goes to the product page when clicked on a product
 
-###Product page:
+### Product page:
 * Renders the second image from the data provided
 * Shows the product price
 * Adds the product to cart
 
-###Cart page:
+### Cart page:
 * Lists the products that are added to the cart
 * Has delete from cart functionality
 * Shows the total with a dummy `Pay` button
 
-###BONUS:
+### BONUS:
 * Update the item amount in the cart (think about stock)
 * Add a promotion input to make %20 discount
 * Implement this test within the NextJS framework
