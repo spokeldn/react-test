@@ -92,8 +92,8 @@ We assume that all the products have inventory and can be added to the basket.
 * Shows the total with a dummy `Pay` button
 
 ### Bonus:
-* Update the item amount in the cart (think about stock)
-* Add a promotion input to make %20 discount
+* Update the item amount in the cart
+* Add a promotion input to make 20% discount
 * Implement this test within the NextJS framework
 
 Happy hacking!
