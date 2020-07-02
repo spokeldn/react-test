@@ -85,10 +85,6 @@ Please visit this url for more information on shopify graphql: ```[https://shopi
 
 ### Cart page:
 * Lists the products that are added to the cart
-* Has delete from cart functionality
 * Shows the cart total 
-
-### Bonus:
-* Implement this test within the NextJS framework
 
 Happy hacking!
