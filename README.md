@@ -73,7 +73,7 @@ Please visit this url for more information on shopify graphql: ```[https://shopi
 ### Requirements
 - Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
 - Please write relevant tests preferably using Jest.
-- Feel free to experiment with different styles but at a minimum please provide a basic responsive UI that represent the designs provided.
+- Feel free to experiment with different styles but at a minimum please provide a basic responsive UI that represents the designs provided.
 
 # Layout
 
