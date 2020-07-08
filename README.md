@@ -61,10 +61,10 @@ We need to retrieve the following data for each product:
 - Price
 - UpdatedAt
 
-We would like to fetch the first 50 products from the endpoint and only fetch those product with the following productTypes:
+We would like to fetch the first 50 products from the endpoint and only fetch those product with the following productTypes (product_type):
 - Heroes
 - Sharps
-- Polos
+- Polos (notice that the collection Polos (plural) contains products with a type of Polo (singular))
 
 We assume that all the products have inventory and can be added to the basket.
 
@@ -72,19 +72,26 @@ Please visit this url for more information on shopify graphql: ```[https://shopi
 
 ### Requirements
 - Please use React.js and a state management library (ie. Redux, Hooks) of your preference.
-- Please write relevant tests preferably using Jest.
+- Please write relevant tests preferably using Jest
 - Feel free to experiment with different styles but at a minimum please provide a basic responsive UI that represents the designs provided.
 
-# Layout
-
+# Views
+Notes:
+- Click on cart button will take the user to the cart page
 ### Products List page:
 * Lists all products in given category (productType)
 * Shows the first image for each product in the list
 * Highlights the products with the new badge
 * Includes a button for each product that adds the product to cart
 
+### Product page:
+* Renders the second image from the data provided
+* Shows the product price
+* Adds the product to cart
+
 ### Cart page:
 * Lists the products that are added to the cart
-* Shows the cart total 
+* User can delete item from cart individually
+* Shows the cart total
 
 Happy hacking!
