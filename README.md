@@ -50,6 +50,13 @@ The data for you to work on will be provided by our graphQL endpoint (see env fi
 }
 ```
 
+### API Call
+
+- POST method
+- Url: [url provided]
+- X-Shopify-Storefront-Access-Token: [token provided]
+- Content-Type: application/json
+
 ### Notes on this data:
 
 We need to retrieve the following data for each product:
